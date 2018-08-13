@@ -1,0 +1,1 @@
+# DjangoBlogAssignment7
